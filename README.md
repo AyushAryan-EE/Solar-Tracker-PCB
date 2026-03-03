@@ -4,8 +4,10 @@ This repository contains the simulation files, Eagle PCB design files, and physi
 
 ## 🎥 Proteus Simulation
 https://github.com/user-attachments/assets/97e5d36a-5b82-47c3-985b-341c82d3a216
+## 🎥 Final Project
+https://github.com/user-attachments/assets/ba274535-976a-4c6e-bf1c-1a2c8db87491
 
-## 📸 Final Hardware Assembly
+## 📸 Hardware Assembly
 ![pcb img1](https://github.com/user-attachments/assets/a38c69fd-d99a-4619-8e73-374c4340b566)
 ![pcb img5](https://github.com/user-attachments/assets/29bf6848-ccaa-4043-a498-f2baf063ce8f)
 ![final model img2](https://github.com/user-attachments/assets/ddaa1e13-d540-435a-b04a-13938e44d840)
@@ -13,9 +15,6 @@ https://github.com/user-attachments/assets/97e5d36a-5b82-47c3-985b-341c82d3a216
 ![pcb img4](https://github.com/user-attachments/assets/a20713dd-bdd9-4532-be6e-ecc8a17bab94)
 ![pcb img3](https://github.com/user-attachments/assets/675917cf-7e89-4347-9c91-a7119e9043a7)
 ![pcb img2](https://github.com/user-attachments/assets/b90ff9dd-3a39-4621-b472-a000e02bd58e)
-![pcb img6](https://github.com/user-attachments/assets/ba274535-976a-4c6e-bf1c-1a2c8db87491)
-
-
 
 
 ## 🛠️ Key Engineering Features
